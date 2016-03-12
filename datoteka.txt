@@ -4,7 +4,8 @@
     -V 0.2 --> DEVELOP sprememba 2
     -V 0.2 --> DEVELOP sprememba 3
 =======
-    -V 0.1 --> FEATURE sprememba 2
+    -V 0.1 --> FEATU+RE spremembbbbba 2
     -V 0.2 --> FEATURE sprememba 3
+     -V 0.2 --> FEATURE sprememba 3
 
         --> LOG Merge Feature v Develop branch
