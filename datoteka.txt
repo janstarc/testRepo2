@@ -1,2 +1,3 @@
 -Verzija 0.1 --> MASTER
     -V 0.1 --> FEATURE sprememba 1
+    -V 0.1 --> FEATURE sprememba 2
