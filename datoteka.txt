@@ -5,5 +5,6 @@
 =======
     -V 0.1 --> FEATURE sprememba 1
     -V 0.1 --> FEATURE sprememba 2
+    -V 0.2 --> FEATURE sprememba 3
 
         --> LOG Merge Feature v Develop branch
