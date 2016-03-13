@@ -9,3 +9,5 @@
      -V 0.2 --> FEATURE sprememba 3
 
         --> LOG Merge Feature v Develop branch
+        
+-prvi commit
