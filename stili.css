@@ -1,0 +1,30 @@
+h1 {
+    font-size: x-large;
+    font-weight: bold;
+    color: green;
+}
+
+.redWord {
+    font-size: large;
+    color: red;
+}
+
+#box {
+    background-color: black;
+    color: white;
+}
+
+#box h1 {
+    color: yellow;
+}
+
+#box p {
+    color: green;
+    background-color: blue;
+}
+
+a:hover {
+    color:#FF00FF;
+    font-size: xx-large;
+    
+}
